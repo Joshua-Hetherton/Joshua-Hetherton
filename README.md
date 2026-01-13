@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Hetherton</h1>
 <h3 align="center">I'm a developer fascinated by space, systems, and the art of elegant design — I enjoy turning curiosity into code and ideas into reality</h3>
 
-- 🔭 I’m currently working on **Upper-Tribunal Web Scraper**
+- 🔭 I’m currently working on **University Assignments**
 
-- 🌱 I’m currently learning **Azure, JavaScript, Python**
+- 🌱 I’m currently learning **, JavaScript, Python**
 
 - 📫 How to reach me **joshuajhetherton2006@gmail.com**, **https://www.linkedin.com/in/joshua-hetherton**,
 
